@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @van2221
-- 👀 I’m interested in data analysis and data science. 
+- 👀 I’m interested in data science. 
 - 👀 Also a beginner in machine learing.
 - 📫 Reach me at vanessalee2221@gmail.com
 
